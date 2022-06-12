@@ -1,4 +1,4 @@
-# LetMicrosoft365GraphConnect
+# LetMicrosoftGraphConnect
 Microsoft Graph へのモダン接続方法のまとめ
 Azure AD Graph と MSOnline の PowerShell licensing assignment APIs は 2022 年 8 月 26 日でサポート終了を迎えます。
 このタイミングまでに Microsoft Graph へライセンス付与機能を移行していく必要がありますが、
